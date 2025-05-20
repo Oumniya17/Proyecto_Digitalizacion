@@ -20,9 +20,8 @@ Esta página web sirve como escaparate para sus destinos más emblemáticos, inv
 
 ## 🔧 Tecnologías utilizadas
 
-- HTML5
-- CSS3
-- Google Fonts
+- HTML
+- CSS
 - Figma (para el diseño visual)
 
 ---
