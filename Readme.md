@@ -14,7 +14,7 @@ Esta página web sirve como escaparate para sus destinos más emblemáticos, inv
 
 ## 📸 Vista previa
 
-![Captura de pantalla](imagenes/captura.png)
+![Captura de pantalla](imagenes/1.png)
 
 ---
 
@@ -57,5 +57,3 @@ Proyecto para la asignatura de **Digitalización**
 Año: 2025
 
 ---
-
-git clone https://github.com/tuusuario/happy-travel.git
