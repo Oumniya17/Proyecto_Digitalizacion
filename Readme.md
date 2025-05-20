@@ -14,7 +14,7 @@ Esta página web sirve como escaparate para sus destinos más emblemáticos, inv
 
 ## 📸 Vista previa
 
-![Inicio](imagenes/1.png) ![Destinos](imagnes/2.png) ![Contacto](imagenes/3.png)
+![Inicio](imagenes/1.png) ![Destinos](imagenes/2.png) ![Contacto](imagenes/3.png)
 
 ---
 
