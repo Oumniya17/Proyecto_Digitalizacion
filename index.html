@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Travel - Vive tu próxima aventura</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="logo">Happy <span>Travel</span></div>
+    <nav class="nav">
+      <a href="#inicio" class="nav-link">Inicio</a>
+      <a href="#destinos" class="nav-link">Destinos</a>
+      <a href="#experiencias" class="nav-link">Experiencias</a>
+      <a href="#galeria" class="nav-link">Galería</a>
+      <a href="#contacto" class="nav-link">Contacto</a>
+    </nav>
+  </header>
+
+  <section id="inicio" class="hero">
+    <div class="hero-content">
+      <h1 data-animate="fade-in">Explora el mundo con Happy Travel</h1>
+      <p data-animate="fade-in-delay">Destinos inolvidables, aventuras únicas y recuerdos para toda la vida.</p>
+      <a href="#destinos" class="btn-primary" data-animate="fade-in-delay">Comienza tu viaje</a>
+    </div>
+  </section>
+
+  <section id="destinos" class="articles">
+    <div class="container">
+      <h2 class="section-title" data-animate="slide-up">Destinos Destacados</h2>
+      <div class="destino-grid">
+        <div class="destino-card">
+          <img src="imagenes/kioto.jpg" alt="Kioto">
+          <div class="overlay">
+            <h3>Kioto</h3>
+            <p>Templos antiguos, cerezos en flor y cultura tradicional japonesa.</p>
+            <a href="destino1.html" class="btn-secondary">Ver más</a>
+          </div>
+        </div>
+        <div class="destino-card">
+          <img src="imagenes/capadocia.jpg" alt="Capadocia">
+          <div class="overlay">
+            <h3>Capadocia</h3>
+            <p>Paisajes de otro mundo, globos aerostáticos y ciudades subterráneas.</p>
+            <a href="destino2.html" class="btn-secondary">Ver más</a>
+          </div>
+        </div>
+        <div class="destino-card">
+          <img src="imagenes/Bora-Bora.webp" alt="Bora Bora">
+          <div class="overlay">
+            <h3>Bora Bora</h3>
+            <p>Playas paradisíacas, bungalows sobre el agua y aguas turquesas.</p>
+            <a href="destino3.html" class="btn-secondary">Ver más</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contacto" class="contacto">
+    <div class="container">
+      <h2 class="section-title" data-animate="slide-up">Contáctanos</h2>
+      <div class="contacto-grid">
+        <div class="contacto-form">
+<form class="form-pro">
+  <div class="form-grid">
+    <div class="form-group">
+      <label for="nombre">Nombre</label>
+      <input type="text" id="nombre" name="nombre" placeholder="Ej. Oumniya Chahidi" required>
+      </div>
+    <div class="form-group">
+      <label for="email">Correo electrónico</label>
+      <input type="email" id="email" name="email" placeholder="correo@ejemplo.com" required>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="mensaje">Mensaje</label>
+    <textarea id="mensaje" name="mensaje" rows="4" placeholder="Cuéntanos tu idea de viaje..."></textarea>
+  </div>
+  <button type="submit" class="btn-primary">Enviar mensaje</button>
+</form>
+        </div>
+        <div class="contacto-info">
+          <h3>Oficina Central</h3>
+          <p><strong>Dirección:</strong> Calle Conde de Cifuentes, 4, 41004, Sevilla</p>
+          <p><strong>Teléfono:</strong> +34 653 975 766</p>
+          <p><strong>Email:</strong> contacto@happytravel.com</p>
+          <div class="mapa">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6827.62457871028!2d-5.98656970000004!3d37.3836025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c394a7636c7%3A0x2d81bc33cd395f44!2sCEI%3A%20Centro%20de%20Estudios%20Innovaci%C3%B3n!5e1!3m2!1sfr!2ses!4v1747771150017!5m2!1sfr!2ses"  allowfullscreen="" loading="lazy"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© 2025 Happy Travel. Todos los derechos reservados.</p>
+      <p>Síguenos en: <a href="#">Instagram</a> | <a href="#">Facebook</a></p>
+    </div>
+  </footer>
+
+
+</body>
+</html>
+
