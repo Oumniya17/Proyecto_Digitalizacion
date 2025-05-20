@@ -39,7 +39,7 @@ Esta página web sirve como escaparate para sus destinos más emblemáticos, inv
 ## 🎨 Diseño UI
 
 Maqueta de referencia:  
-👉 [Ver diseño en Figma]([https://www.figma.com/design/TuRvUhSC0wqOUBgXGWV92N/HappyTravel?node-id=0-1&m=dev&t=8JHzftz8zEtdhgFW-1](https://www.figma.com/design/ICYbKjj5x5GyatR2kHAgIv/HappyTravel--Copy-?node-id=0-1&m=dev&t=As4cMO85yXScDAOb-1))
+👉 [Ver diseño en Figma](https://www.figma.com/design/ICYbKjj5x5GyatR2kHAgIv/HappyTravel--Copy-?node-id=0-1&m=dev&t=As4cMO85yXScDAOb-1)
 
 Colores usados:
 - Marrón 🍂
